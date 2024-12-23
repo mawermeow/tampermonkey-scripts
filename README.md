@@ -66,11 +66,9 @@ tampermonkey-scripts/
 ├── README.md                # 專案主說明文件
 ├── LICENSE                  # 開源授權
 ├── excalidraw/              # Excalidraw 相關腳本目錄
-│   ├── excalidraw-custom-shortcuts.user.js    # Excalidraw 自訂快捷鍵腳本
-│   └── README.md            # Excalidraw 腳本說明
+│   └── excalidraw-custom-shortcuts.user.js    # Excalidraw 自訂快捷鍵腳本
 ├── udemy/                   # Udemy 相關腳本目錄
-│   ├── udemy-download-subtitles.user.js      # Udemy 字幕下載腳本
-│   └── README.md            # Udemy 腳本說明
+│   └── udemy-download-subtitles.user.js      # Udemy 字幕下載腳本
 └── .gitignore               # Git 忽略文件
 ~~~
 
