@@ -1,3 +1,6 @@
 # misc
 .DS_Store
 *.pem
+
+# 忽略 JetBrains IDE 的配置文件夾
+.idea/
